@@ -6,11 +6,11 @@ Projeto realizado dia 10/06/2023
 # PROJETO EM GOVERNANÇA DE TI
 
 * Universidade nove de julho.
-* CIÊNCIA DE DADOS.
+* Ciência de Dados / Sistema da Informação.
 
 ## Integrantes:
  
-* Luan Fernando     RA: 2221104865
+* Luan Fernando  RA: 2221104865
 
 ## Professor:
 ```
